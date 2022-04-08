@@ -1,1 +1,1 @@
-This is a single static webpage that contains eight buttons where each button is created using a seperate functional component, so the eight buttons are created using eight components and then importing it!
+This is a single static webpage that contains eight buttons where each button is created using a seperate functional component, so the eight buttons are created using eight components and then rendering it!
