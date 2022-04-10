@@ -1,0 +1,133 @@
+.App {
+  text-align: center;
+  width: 65%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.inp{
+  background-image: radial-gradient( circle 976px at 51.2% 51%,  rgba(11,27,103,1) 0%, rgba(16,66,157,1) 0%, rgba(11,27,103,1) 17.3%, rgba(11,27,103,1) 58.8%, rgba(11,27,103,1) 71.4%, rgba(16,66,157,1) 100.2%, rgba(187,187,187,1) 100.2% );
+  border: none;
+  color: white;
+  width: 50%;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+  box-shadow: 0 0 20px #eee;
+  font-weight: 600;
+  cursor: pointer;
+}
+.list-item{
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  margin: 5px;
+}
+
+.btn {background-image: linear-gradient(to right, #cb2d3e 0%, #ef473a  51%, #cb2d3e  100%)}
+.btn {
+   margin: 0px 10px;
+   padding: 10px 13px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   box-shadow: 0 0 20px #eee;
+   border: 2px solid rgb(191, 16, 16);
+   border-radius: 10px;
+   display: block;
+   cursor: pointer;
+ }
+
+ .btn:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+
+ 
+ .btn1 {background-image: linear-gradient(to right, #56ab2f 0%, #a8e063  51%, #56ab2f  100%)}
+ .btn1 {
+    margin: 0px 10px;
+    padding: 10px 13px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border: 2px solid rgb(19, 136, 19);
+    border-radius: 10px;
+    display: block;
+    cursor: pointer;
+  }
+
+  .btn1:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+  .content{
+    padding: 5px;
+    color: white;
+    font-size: 18px;
+    width: 60%;
+    justify-content: flex-start;
+    cursor: pointer;
+  }
+
+
+
+ .btn-grad {
+   background-image: linear-gradient(to right, #1A2980 0%, #26D0CE  51%, #1A2980  100%)
+  }
+ .btn-grad {
+    margin: 10px;
+    padding: 10px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;  
+    font-weight: bold;          
+    box-shadow: 0 0 20px #eee;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+
+  .btn-del {
+    background-image: linear-gradient(to right, #085078 0%, #85D8CE  51%, #085078  100%)
+  }
+  .btn-del {
+     margin: 0px;
+     padding: 8px 30px;
+     text-align: center;
+     text-transform: uppercase;
+     transition: 0.5s;
+     background-size: 200% auto;
+     color: white;  
+     font-weight: bold;          
+     box-shadow: 0 0 20px #eee;
+     border: none;
+     border-radius: 10px;
+     display: block;
+     cursor: pointer;
+   }
+
+   .btn-del:hover {
+     background-position: right center; /* change the direction of the change here */
+     color: #fff;
+     text-decoration: none;
+   }
+  
+ 
