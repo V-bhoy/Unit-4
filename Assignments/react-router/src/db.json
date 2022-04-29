@@ -1,0 +1,112 @@
+{"SliderItems":[
+    {
+        "id":1,
+        "img":"https://img.freepik.com/free-photo/blonde-woman-with-perfect-wavy-hairstyle-pink-party-dress-posing-hight-heels_273443-1636.jpg?w=2000",
+        "title":"SUMMER SALE",
+        "desc":"DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+        "bg":"255, 192, 203, 0.6"
+    },
+    {
+        "id":2,
+        "img":"https://img.freepik.com/free-photo/gorgeous-elegant-sensual-blonde-woman-wearing-fashion-black-dress_149155-246.jpg?w=2000",
+        "title":"CLEARANCE SALE",
+        "desc":"DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+        "bg":"224, 222, 223, 0.5"
+    },
+    {
+        "id":3,
+        "img":"https://img.freepik.com/free-photo/excited-white-girl-bright-stylish-glasses-posing-pink-dreamy-curly-woman-playing-with-her-ginger-hair-laughing_197531-11045.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+        "title":"POPULAR SALE",
+        "desc":"DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+        "bg":"255, 192, 203, 0.6"
+    }
+],"categories":[
+    {
+        "id":4,
+        "img":"https://img.freepik.com/free-photo/cute-woman-bright-hat-purple-blouse-is-leaning-stand-with-dresses-posing-with-package-isolated-background_197531-17610.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+        "title":"SHIRT STYLE"
+        
+    },
+    {
+        "id":5,
+        "img":"https://img.freepik.com/free-photo/cute-young-girl-with-dark-wavy-hairstyle-bright-makeup-silk-dress-black-jacket-holding-sunglasses-hands-looking-away-against-beige-building-wall_197531-24462.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+        "title":"LOUNGEWEAR LOVE"
+      
+    },
+    {
+        "id":6,
+        "img":"https://img.freepik.com/free-photo/two-young-beautiful-blond-smiling-hipster-women-trendy-summer-clothes-sexy-carefree-women-posing-near-blue-wall-sunglasses-positive-models-going-crazy-hugging_158538-7650.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+        "title":"LIGHT JACKETS"
+     
+    }
+],
+"products":[{
+    "id":7,
+    "title": "",
+    "img":"https://img.freepik.com/free-photo/charming-slim-brunette-woman-pin-up-dress-coquettishly-raised-her-leg-isolated-wall_197531-14263.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+    "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo facere dolore quae eaque aspernatur consectetur voluptatibus nulla non repellendus, qui quod! Minima, amet voluptatem et optio nostrum voluptas hic aliquid? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae quasi adipisci et laboriosam reprehenderit ullam accusamus, officiis aperiam corrupti. Quis iure exercitationem in impedit officia cupiditate nam eveniet voluptate sunt!",
+    "price":55
+},
+{
+    "id":8,
+    "title":"",
+    "img":"https://img.freepik.com/free-photo/enthusiastic-young-woman-showing-credit-card-recommending-bank-discount-store-contactless-payment-cashback-standing-yellow-background_1258-87520.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+    "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo facere dolore quae eaque aspernatur consectetur voluptatibus nulla non repellendus, qui quod! Minima, amet voluptatem et optio nostrum voluptas hic aliquid? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae quasi adipisci et laboriosam reprehenderit ullam accusamus, officiis aperiam corrupti. Quis iure exercitationem in impedit officia cupiditate nam eveniet voluptate sunt!",
+    "price":50
+},
+{
+    "id":9,
+    "title":"",
+    "img":"https://img.freepik.com/free-photo/young-beautiful-woman-looking-trendy-girl-casual-summer-clothes-positive-funny-model-winking_158538-4541.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+    "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo facere dolore quae eaque aspernatur consectetur voluptatibus nulla non repellendus, qui quod! Minima, amet voluptatem et optio nostrum voluptas hic aliquid? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae quasi adipisci et laboriosam reprehenderit ullam accusamus, officiis aperiam corrupti. Quis iure exercitationem in impedit officia cupiditate nam eveniet voluptate sunt!",
+    "price":80
+},
+{
+    "id":10,
+    "title":"",
+    "img":"https://img.freepik.com/free-photo/portrait-happy-woman-outside-cafe-decorated-with-flowers_1303-9927.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+    "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo facere dolore quae eaque aspernatur consectetur voluptatibus nulla non repellendus, qui quod! Minima, amet voluptatem et optio nostrum voluptas hic aliquid? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae quasi adipisci et laboriosam reprehenderit ullam accusamus, officiis aperiam corrupti. Quis iure exercitationem in impedit officia cupiditate nam eveniet voluptate sunt!",
+    "price":40
+},
+{
+    "id":11,
+    "title":"",
+    "img":"https://img.freepik.com/free-photo/portrait-young-beautiful-smiling-hipster-girl-trendy-summer-jeans-jacket-clothes_158538-1252.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+    "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo facere dolore quae eaque aspernatur consectetur voluptatibus nulla non repellendus, qui quod! Minima, amet voluptatem et optio nostrum voluptas hic aliquid? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae quasi adipisci et laboriosam reprehenderit ullam accusamus, officiis aperiam corrupti. Quis iure exercitationem in impedit officia cupiditate nam eveniet voluptate sunt!",
+    "price":30
+},
+{
+    "id":12,
+    "title":"",
+    "img":"https://img.freepik.com/free-photo/young-woman-beautiful-red-dress_1303-17500.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+    "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo facere dolore quae eaque aspernatur consectetur voluptatibus nulla non repellendus, qui quod! Minima, amet voluptatem et optio nostrum voluptas hic aliquid? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae quasi adipisci et laboriosam reprehenderit ullam accusamus, officiis aperiam corrupti. Quis iure exercitationem in impedit officia cupiditate nam eveniet voluptate sunt!",
+    "price":80
+},
+{
+    "id":13,
+    "title":"",
+    "img":"https://img.freepik.com/free-photo/graceful-stylish-woman-pink-dress_197531-13228.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+    "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo facere dolore quae eaque aspernatur consectetur voluptatibus nulla non repellendus, qui quod! Minima, amet voluptatem et optio nostrum voluptas hic aliquid? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae quasi adipisci et laboriosam reprehenderit ullam accusamus, officiis aperiam corrupti. Quis iure exercitationem in impedit officia cupiditate nam eveniet voluptate sunt!",
+    "price":70
+},
+{
+    "id":14,
+    "title":"",
+    "img":"https://img.freepik.com/free-photo/charming-lady-jeans-dancing-pink-background-cute-curly-girl-fashionable-clothes-red-high-heels-laughs-isolated-backdrop_197531-18604.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+    "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo facere dolore quae eaque aspernatur consectetur voluptatibus nulla non repellendus, qui quod! Minima, amet voluptatem et optio nostrum voluptas hic aliquid? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae quasi adipisci et laboriosam reprehenderit ullam accusamus, officiis aperiam corrupti. Quis iure exercitationem in impedit officia cupiditate nam eveniet voluptate sunt!",
+    "price":45
+},
+{
+    "id":15,
+    "title":"",
+    "img":"https://img.freepik.com/free-photo/full-length-portrait-attractive-slim-girl-wears-white-sport-shoes-indoor-photo-enchanting-caucasian-woman-dancing_197531-20504.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+    "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo facere dolore quae eaque aspernatur consectetur voluptatibus nulla non repellendus, qui quod! Minima, amet voluptatem et optio nostrum voluptas hic aliquid? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae quasi adipisci et laboriosam reprehenderit ullam accusamus, officiis aperiam corrupti. Quis iure exercitationem in impedit officia cupiditate nam eveniet voluptate sunt!",
+    "price": 65
+},
+{
+    "id":16,
+    "title":"",
+    "img":"https://img.freepik.com/free-photo/joyful-lady-with-red-wavy-hairstyle-straw-hat-black-bandage-neck-printed-green-dress-light-sneakers-smiling-wall-cafe_197531-24706.jpg?size=626&ext=jpg&ga=GA1.2.252166712.1651088395",
+    "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo facere dolore quae eaque aspernatur consectetur voluptatibus nulla non repellendus, qui quod! Minima, amet voluptatem et optio nostrum voluptas hic aliquid? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae quasi adipisci et laboriosam reprehenderit ullam accusamus, officiis aperiam corrupti. Quis iure exercitationem in impedit officia cupiditate nam eveniet voluptate sunt!",
+    "price":50
+}]}
