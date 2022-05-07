@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Saavna",
+      "categories": {
+        "t1": "South Indian",
+        "t2": "Chinese",
+        "t3": "Thali",
+        "t4": "Snacks"
+      },
+      "price": 300,
+      "minprice": 50,
+      "votes": 942,
+      "rating": 3.9,
+      "payment": [
+        "card",
+        "cash",
+        "upi"
+      ],
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM9dsTSXym5dlKdH54aIRBPE30QYgOfUNdvA&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "Subway",
+      "categories": {
+        "t1": "Burger",
+        "t2": "Veggies",
+        "t3": "Non-Veg",
+        "t4": "Pizza"
+      },
+      "price": 900,
+      "minprice": 300,
+      "votes": 1560,
+      "rating": 4.7,
+      "payment": [
+        "card",
+        "upi"
+      ],
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMFQ4LtD0MKYiaFCeh-NhZogj1ua69347Ww&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Mc-Donalds",
+      "categories": {
+        "t1": "Burger",
+        "t2": "Fries",
+        "t3": "Coke",
+        "t4": "Puffs"
+      },
+      "price": 900,
+      "minprice": 300,
+      "votes": 1411,
+      "rating": 4.5,
+      "payment": [
+        "card",
+        "cash",
+        "upi"
+      ],
+      "url": "https://www.teahub.io/photos/full/262-2628852_mcdonald-s-mc-donalds.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dominos",
+      "categories": {
+        "t1": "Pizza",
+        "t2": "Fries",
+        "t3": "Breads",
+        "t4": "Coke"
+      },
+      "price": 1050,
+      "minprice": 300,
+      "votes": 1324,
+      "rating": 4,
+      "payment": [
+        "card",
+        "cash",
+        "upi"
+      ],
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqna2QN6hmfgWqshLxn8Nlmtn4SAx7gqw4w&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "Pizza Hut",
+      "categories": {
+        "t1": "Pizza",
+        "t2": "Fries",
+        "t3": "Breads",
+        "t4": "Coke"
+      },
+      "price": 950,
+      "minprice": 350,
+      "votes": 1236,
+      "rating": 3.6,
+      "payment": [
+        "card",
+        "upi"
+      ],
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFraJUlwv6OQMlrMQrB8573UeyLuuSr_qeEg&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Cakie",
+      "categories": {
+        "t1": "Pastry",
+        "t2": "Cakes",
+        "t3": "Desserts",
+        "t4": "Sweets"
+      },
+      "price": 600,
+      "minprice": 50,
+      "votes": 1036,
+      "rating": 3.8,
+      "payment": [
+        "card",
+        "upi"
+      ],
+      "url": "https://product-assets.faasos.io/production/product/image_1637325641195_Salted%20Caramel%20Pastry%20%26%20Chocolate%20Crusted%20Cheesecake%20Combo%20%5BPack%20of%204%5D.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Roll Maniaz",
+      "categories": {
+        "t1": "Rolls",
+        "t2": "Wraps",
+        "t3": "Desserts",
+        "t4": "puffs"
+      },
+      "price": 450,
+      "minprice": 100,
+      "votes": 1320,
+      "rating": 4.2,
+      "payment": [
+        "card",
+        "upi",
+        "cash"
+      ],
+      "url": "https://product-assets.faasos.io/production/product/image_1618581012383_image_1603542783342_Resmi%20chicken%20kebab%20Wrap%20%2B%20Makhani%20Falafel%20Wrap.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Italiana",
+      "categories": {
+        "t1": "Spaghetti",
+        "t2": "Pasta",
+        "t3": "Mocktails",
+        "t4": "Desserts"
+      },
+      "price": 1250,
+      "minprice": 400,
+      "votes": 1246,
+      "rating": 2.8,
+      "payment": [
+        "card",
+        "upi"
+      ],
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0n_bBbhJ9-RCEz5mstTjAFpx6ojk4gic1A&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "name": "House Of Momos",
+      "categories": {
+        "t1": "Momos",
+        "t2": "Sandwiches",
+        "t3": "Drinks",
+        "t4": "Fries"
+      },
+      "price": 400,
+      "minprice": 60,
+      "votes": 1546,
+      "rating": 4.2,
+      "payment": [
+        "card",
+        "upi",
+        "cash"
+      ],
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpMHBRxPuf91RcG4vKdIajRfFzaQQ0s0fAHg&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "name": "Marathi Tadka",
+      "categories": {
+        "t1": "Thali",
+        "t2": "Veg",
+        "t3": "NonVeg",
+        "t4": "Misal"
+      },
+      "price": 300,
+      "minprice": 70,
+      "votes": 1572,
+      "rating": 3.5,
+      "payment": [
+        "card",
+        "upi",
+        "cash"
+      ],
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQu0i07WfajGvBRguELDflMkZdQ46tmVGsw&usqp=CAU"
+    },
+    {
+      "name": "Orchid",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTLdGqdVp6eZEjf2ky2ejEnT3lFPoigwaRA&usqp=CAU",
+      "categories": {
+        "t1": "Veg",
+        "t2": "NonVeg",
+        "t3": "Italian",
+        "t4": "Chinese"
+      },
+      "price": "700",
+      "minprice": "300",
+      "rating": 1.7,
+      "payment": [
+        "card",
+        "upi"
+      ],
+      "id": 11
+    }
+  ]
+}
