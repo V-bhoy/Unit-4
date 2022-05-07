@@ -1,17 +1,17 @@
 import React from 'react'
 
-const Apple = () => {
+const Apple = ({date,type,device,logo}) => {
   return (
     <div className='container' style={{backgroundColor:"lightgray"}}>
         <div className='left'>
-            <p>17 Sep 2020</p>
+            <p>{date}</p>
             <button>Case Study</button>
-            <div><h1>Apple Gift</h1></div>
+            <div><h1>{type} Gift</h1></div>
             <div><h1>Pay</h1></div>
-            <p>MacOS-Mobile</p>
+            <p>{device}-Mobile</p>
         </div>
         <div className='right'>
-        <i class="fa fa-apple"></i>
+        <i class={logo}></i>
         <i class="fa fa-arrow-right"></i>
         </div>
     </div>

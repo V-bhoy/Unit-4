@@ -1,17 +1,17 @@
 import React from 'react'
 
-const Amazon = () => {
+const Amazon = ({date,type,device,logo}) => {
   return (
-    <div className='container'>
+    <div className='container' style={{backgroundColor:"orange"}} >
         <div className='left'>
-            <p>28/10/2020</p>
+            <p>{date}</p>
             <button>Case Study</button>
-            <div><h1>Amazon Gift</h1></div>
+            <div><h1>{type} Gift</h1></div>
             <div><h1>Pay</h1></div>
-            <p>Desktop-Mobile</p>
+            <p>{device}-Mobile</p>
         </div>
         <div className='right'>
-        <i class="fa fa-amazon"></i>
+        <i class={logo}></i>
         <i class="fa fa-arrow-right"></i>
         </div>
     </div>
