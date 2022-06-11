@@ -1,11 +1,13 @@
 import React from "react";
 import './App.css';
-import RestaurantDetails from "./components/RestaurantDetails";
+import Todos from "./components/Todos"
+
+
 
 function App() {
   return (
     <div className="App">
-       <RestaurantDetails />
+        <Todos />
     </div>
   );
 }

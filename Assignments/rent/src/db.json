@@ -1,0 +1,62 @@
+{"houses":[
+    {
+        "id":1,
+        "name":"Flat",
+        "ownerName":"Rajesh Patil",
+        "address":"Ganghar Chowk, sector 26,Pune",
+        "areaCode":"422034",
+        "rent":"15000",
+        "preferredTenants":["Bachelors"],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBq3isL1-xDah2mNgQRVABCuUMuGiBD494Pg&usqp=CAU"
+    },
+    {
+        "id":2,
+        "name":"Flat",
+        "ownerName":"Aman Dubey",
+        "address":"Ganesh Street, sector 21, Akola",
+        "areaCode":"432618",
+        "rent":"18000",
+        "preferredTenants":["Married", "Bachelors"],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAnCeHYVXVNHg7kPlexbloe_c8VlUKJhYU8w&usqp=CAU"
+    },
+    {
+        "id":3,
+        "name":"Row House",
+        "ownerName":"Raj Singhania",
+        "address":"Clover Bay, Near Tanishq Jwellery, Mumbai",
+        "areaCode":"324556",
+        "rent":"26000",
+        "preferredTenants":["Married","Bachelors"],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSlJ-yq9hJHslZSki_TI6xqgwyAmO6afH5hQ&usqp=CAU"
+    },
+    {
+        "id":4,
+        "name":"Row House",
+        "ownerName":"Pallavi Datta",
+        "address":"Goregaon Street, Chinchwad",
+        "areaCode":"422304",
+        "rent":"24000",
+        "preferredTenants":["Married"],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N4cB2KIhduVBBlYeZmzcpowQvcev18R8FQ&usqp=CAU"
+    },
+    {
+        "id":5,
+        "name":"Flat",
+        "ownerName":"Rose Mathew",
+        "address":"James Street, Mumbai",
+        "areaCode":"310432",
+        "rent":"21000",
+        "preferredTenants":["Married"],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkUYcKO3Hh5U1hsj2RUVU_fJBgAdA8IRBUow&usqp=CAU"
+    },
+    {
+        "id":6,
+        "name":"Flat",
+        "ownerName":"Sammy Singh",
+        "address":"Hutatma Chowk, Pune",
+        "areaCode":"411056",
+        "rent":"17000",
+        "preferredTenants":["Married", "Bachelors"],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO47xDdiGsx-z22UnZkS47Gl611YLXso7kg&usqp=CAU"
+    }
+]}

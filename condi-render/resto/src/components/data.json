@@ -1,0 +1,163 @@
+[{"wraps":[{
+    "name":"Smokey Fab Combo (Veg)",
+    "price":198,
+    "glance":"Is it a pizza or a wrap? Let your tasteb...",
+    "description":"(Veg Only) 1 Masala Paneer Tikka Wrap + 1 Jumbo Falafel Salsa Wrap . When flavourful surprises come knocking, you welcome them with open arms. Especially when they come with savings of Rs.137!",
+    "rating":4.7,
+    "buy":"0.2k",
+    "type":["Veg","wrap"],
+    "image":"https://product-assets.faasos.io/production/product/image_1618580131789_image_1618219032186_Fab%20%26%20Smokey%20Veg%20Combo%201%20Masala%20Paneer%20tikka%2B%201%20Jumbo%20Falafel%20Salsa%20Wrap.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Fab & Creamy Combo",
+    "price":198,
+    "glance":"(Veg + Non-Veg) 1 Reshmi Chicken Keb...",
+    "description":"(Veg + Non-Veg) 1 Reshmi Chicken Kebab Wrap + 1 Makhani Falafel Wrap. Flavours that surprise and prices that amaze. Save Rs. 147 with this FAB combo!",
+    "rating":4.5,
+   "buy":"886",
+    "type":["Non Veg","wrap"],
+    "image":"https://product-assets.faasos.io/production/product/image_1618581012383_image_1603542783342_Resmi%20chicken%20kebab%20Wrap%20%2B%20Makhani%20Falafel%20Wrap.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Fab & Cheesy NonVeg Combo",
+    "price":209,
+    "glance":"(Non-Veg Only) Cheese Melt Chicken Wr...",
+    "description":"(Non-Veg Only) Cheese Melt Chicken Wrap + Double Cheese Meatball Wrap and a savings of Rs 150! Not easy to beat boredom? Indulge in our FAB combo to be surprised!",
+    "rating":4.4,
+    "buy":"0.2k",
+    "type":["Non Veg","Wrap"],
+    "image":"https://product-assets.faasos.io/production/product/image_1618581154570_image_1603542884429_Cheese%20melt%20chicken%20wrap%20%2B%20Double%20cheese%20meatball%20wrap.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Fab & Loaded Veg Combo",
+    "price":209,
+    "glance":"(Veg Only) 1 Jumbo Paneer Chole Wrap...",
+    "description":"(Veg Only) 1 Jumbo Paneer Chole Wrap + 1 Jumbo Falafel Salsa Wrap. When dill mange more but pockets say please no more, we come to the rescue! Save Rs. 181 with this FAB combo of",
+    "rating":4.4,
+    "buy":"669",
+    "type":["Veg","wrap"],
+    "image":"https://product-assets.faasos.io/production/product/image_1618581202108_image_1603542499176_Jumbo%20Paneer%20Chole%20Wrap%20%2B%20Jumbo%20Falafel%20Salsa%20Wrap.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Exotic Fab Combo (Veg)",
+    "price":219,
+    "glance":"(Veg Only) Get a fusion of flavours and...",
+    "description":"(Veg Only) Get a fusion of flavours and a surprise of savings with this combo. 1 Mexican Potato Salsa Wrap + 1 Makhni Falafel Wrap",
+    "rating":4.6,
+    "buy":"293",
+    "type":["Veg","wrap"],
+    "image":"https://product-assets.faasos.io/production/product/image_1618581269484_image_1618267295019_Mexican%20Potato%20Salsa%20%2B%20Makhni%20Falafel%20Wrap.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Smokey Fab combo (Non-Veg)",
+    "price":239,
+    "glance":"(Non-Veg Only) Save Rs. 146 with this de...",
+    "description":"(Non-Veg Only) Save Rs. 146 with this delicious combo of 1 BBQ Chicken Overload Wrap + 1 Masala Chicken Tikka Wrap. An overload of flavours, an overload of savings, we have it all!",
+    "rating":4.5,
+    "buy":"610",
+    "type":["Non Veg","wrap"],
+    "image":"https://product-assets.faasos.io/production/product/image_1618581404349_image_1618218800445_Fab%20%26%20Smokey%20Non%20Veg%20Combo%201%20BBQ%20Chicken%20Overload%20Wrap%20%2B%201%20Masala%20Chicken%20Tikka%20Wrap.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Fab & Italian Combo",
+    "price":269,
+    "glance":"(Veg + Non-Veg) 1 Baked Veggie Pizza W...",
+    "description":"(Veg + Non-Veg) 1 Baked Veggie Pizza Wrap + 1 Baked Chicken Pizza Wrap. Delicious surprises and amazing savings are in the ‘baking’! Indulge in this FAB combo and save Rs.171.",
+    "rating":5,
+    "buy":"152",
+    "type":["Non Veg","wrap"],
+    "image":"https://product-assets.faasos.io/production/product/image_1618581460225_image_1603542360913_Baked%20Veggi%20Pizza%20Wrap%20%2B%20Baked%20Chicken%20Pizza%20Wrap.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Loaded Fab Combo (Non-Veg)",
+    "price":279,
+    "glance":"(Non-Veg Only) 1 BBQ Chicken Overload",
+    "description":"(Non-Veg Only) 1 BBQ Chicken Overload Wrap + 1 American Smokey Sausage Wrap. Delicious wraps, unbelievable savings of Rs.181!",
+    "rating":4.2,
+    "buy":"340",
+    "type":["Non Veg","wrap"],
+    "image":"https://product-assets.faasos.io/production/product/image_1618581525548_image_1618218769125_Fab%20%26%20Loaded%20Non%20Veg%20Combo%201%20BBQ%20Chicken%20Overload%20Wrap%20%2B%201%20American%20Smokey%20Sausage%20Wrap.jpg",
+    "payment methods":["card","cash","upi"]
+}]},
+{"cake":[{
+    "name":"Salted Caramel Pastry (Box of 2)",
+    "price":303,
+    "glance":"Eggless) This 5 layered pastry with lay...",
+    "description":"(Eggless) This 5 layered pastry with layers of Chocolate sponge, dark ganache and caramel flavored mousse, is a delectable indulgence for 2!",
+    "rating":4.7,
+    "buy":"0.7k",
+    "type":["Veg","ct_amz_Dessert","Amazon Recommended"],
+    "image":"https://product-assets.faasos.io/production/product/image_1637325434373_Salted%20Caramel%20Pastry%20%28Pack%20of%202%29.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Triple Choco Mousse (Box of 2)",
+    "price":303,
+    "glance":"(Eggless) Dark, White & Milk chocolate ...",
+    "description":"(Eggless) Dark, White & Milk chocolate mousse, sandwiched between Dark Chocolate Sponge, topped with ganache & swirled with glaze. Get two, as you cant stop at just one!",
+    "rating":4.6,
+    "buy":"1.0k",
+    "type":["Veg","ct_amz_Dessert","Amazon Recommended"],
+    "image":"https://product-assets.faasos.io/production/product/image_1637325462118_Triple%20Chocolate%20Mousse%20Pastry%20%28Pack%20of%202%29.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Mango Cheesecake (Box of 2)",
+    "price":303,
+    "glance":"(Eggless) Original New York Style Mang...",
+    "description":"(Eggless) Original New York Style Mango Cheesecake but with the hint of delicious notes of mangoes, the perfect balance of sweet and tart! Indulge in not 1 but 2!",
+    "rating":4.5,
+    "buy":"1.5k",
+    "type":["Veg","ct_amz_Dessert","Amazon Recommended"],
+    "image":"https://product-assets.faasos.io/production/product/image_1638181499604_Rich%20Mango%20Cheesecake%20%28Combo%20of%202%29.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Caramel & Choco Pastry (Box of 4)",
+    "price":576,
+    "glance":"SAVE Rs. 90! 2 Salted Caramel Pastry + ...",
+    "description":"SAVE Rs. 90! 2 Salted Caramel Pastry + 2 Chocolate Crusted Cheesecake",
+    "rating":5,
+    "buy":"852",
+    "type":["Veg","ct_amz_Dessert","Amazon Recommended"],
+    "image":"https://product-assets.faasos.io/production/product/image_1637325641195_Salted%20Caramel%20Pastry%20%26%20Chocolate%20Crusted%20Cheesecake%20Combo%20%5BPack%20of%204%5D.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Alphonso Mango Cheesecake",
+    "price":167,
+    "glance":"(Eggless) This New York Style Mango Ch...",
+    "description":"(Eggless) This New York Style Mango Cheesecake, made with premium quality cream cheese and a crust infused with delicious mango flavor, is every dessert lovers delight!",
+    "rating":4.7,
+    "buy":"23.6k",
+    "type":["ct_amz_Dessert","Amazon Recommended","Zomato Recommended"],
+    "image":"https://product-assets.faasos.io/production/product/image_1635343377971_Mango%20Cheesecake.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Hazelnut Brownie",
+    "price":125,
+    "glance":"Eggless) Gooey & fudgy on the inside a...",
+    "description":"(Eggless) Gooey & fudgy on the inside and nutty on the outside. Our melt-in-the-mouth Single Nutty Hazelnut Brownie will give you serious dessert goals.",
+    "rating":4.5,
+    "buy":"62.4k",
+    "type":["ct_amz_Dessert","Amazon Recommended","Zomato Recommended"],
+    "image":"https://product-assets.faasos.io/production/product/image_1635343555407_Hazelnut%20Brownie.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Red Velvet Dessert Jar",
+    "price":240,
+    "glance":"(Eggless) Fluffy red velvet sponge cakes...",
+    "description":"(Eggless) Fluffy red velvet sponge cakes with perfectly sweet & creamy, cream cheese frosting, layered in a mason jar. Worth the indulgence!",
+    "rating":4.5,
+    "buy":"14.2k",
+    "type":["ct_amz_Dessert","Amazon Recommended"],
+    "image":"https://product-assets.faasos.io/production/product/image_1635344386036_Red%20Velvet%20Dessert%20Jar.jpg",
+    "payment methods":["card","cash","upi"]
+},{
+    "name":"Chocolate Dessert Jar",
+    "price":240,
+    "glance":"(Eggless) Our three-layered sinful chocol...",
+    "description":"(Eggless) Our three-layered sinful chocolate dessert in a jar is a decadent chocolate love affair because there is no such thing as too much chocolate.",
+    "rating":4.5,
+    "buy":"19.9k",
+    "type":["ct_amz_Dessert","Amazon Recommended","Zomato Recommended"],
+    "image":"https://product-assets.faasos.io/production/product/image_1635344342897_Chocolate%20Dessert%20Jar.jpg",
+    "payment methods":["card","cash","upi"]
+}]}]
+

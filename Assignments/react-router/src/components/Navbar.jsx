@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { Search, ShoppingCartOutlined } from '@material-ui/icons'
 import { Badge } from '@material-ui/core';
 import {mobile} from '../responsive'
+import { useNavigate } from 'react-router-dom';
 
 const Container = styled.div`
     height: 60px;
@@ -85,6 +86,8 @@ const Logo = styled.h1`
 
 
 const Navbar = () => {
+ const navigate = useNavigate(); 
+
   return (
     <Container>
        <Wrapper>
@@ -96,11 +99,11 @@ const Navbar = () => {
               </SearchContainer>
            </Left>
            <Center>
-               <Logo>SHINE*</Logo>
+               <Logo onClick={()=>navigate("/")}>SHINE*</Logo>
            </Center>
            <Right>
-               <MenuItem>REGISTER</MenuItem>
-               <MenuItem>SIGN IN</MenuItem>
+               <MenuItem onClick={()=>navigate("/register")}>REGISTER</MenuItem>
+               <MenuItem onClick={()=>navigate("/signin")}>SIGN IN</MenuItem>
                <MenuItem>
                <Badge badgeContent={4} color="primary">
                    <ShoppingCartOutlined/>
